@@ -15,6 +15,8 @@ A modern, smooth webcam app built with Python and CustomTkinter.
 ## Screenshots
 <img width="804" height="759" alt="Screenshot 2025-08-22 065605" src="https://github.com/user-attachments/assets/f78a9448-bec1-4ff3-bf77-1c8ab00b969e" />
 <img width="1222" height="1063" alt="Screenshot 2025-08-22 065703" src="https://github.com/user-attachments/assets/ff0fb503-7f21-4e3d-86a4-cd18e62da437" />
+<img width="640" height="480" alt="capture_20250822_065643" src="https://github.com/user-attachments/assets/0413483b-c316-425b-b74c-ad3a093c9962" />
+
 
 
 <!-- Add screenshots of the splash screen, main window, and captured images here -->
@@ -36,4 +38,5 @@ A modern, smooth webcam app built with Python and CustomTkinter.
 
 ## Credits
 Developed by Fozan Ahmed
+
 
