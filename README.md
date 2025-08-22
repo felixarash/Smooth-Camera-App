@@ -24,7 +24,9 @@ This is my First python app will update it time to time will make it enhance and
 <!-- Add screenshots of the splash screen, main window, and captured images here -->
 # How to Install in PC for Windows 10 / 11 
 ## go to fourceforge of my project link : https://sourceforge.net/projects/smooth-camera-app/
-- and download puff here you go
+## Then download it and run the inno setup installer 
+
+
   
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
@@ -43,6 +45,7 @@ This is my First python app will update it time to time will make it enhance and
 
 ## Credits
 Developed by Fozan Ahmed
+
 
 
 
